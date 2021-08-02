@@ -1,2 +1,2 @@
-# Password-recovery-cracking
-Simple programs for learning about password recovery/strength. 
+# Password-Recovery-Tool
+Simple program for learning about password recovery/strength. 
